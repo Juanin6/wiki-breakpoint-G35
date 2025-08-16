@@ -1,0 +1,53 @@
+José David (Interviewer): Do I have your permission to record the interview?
+Valentina (Interviewee): Yes.
+
+José David: What’s your age, major, and current semester?
+Valentina: I’m 20 years old, I study Biomedical Engineering, and I’m in my sixth semester.
+
+José David: How do you usually spend your free time between classes?
+Valentina: Normally, at the beginning of the term I rest between classes, and towards the end I use the time to study or finish projects.
+
+José David: Do you usually carry or need things you don’t use all the time, or sometimes lend/exchange things with classmates?
+Valentina: Yes.
+
+José David: Tell me about a recent occasion at the university when you needed a space or a specific resource, but it wasn’t available or was hard to get.
+Valentina: Yes, with my study group we needed a book to prepare for an exam, but since the class is big, all the copies in the library were taken and we couldn’t get it.
+
+José David: Have you ever wanted a place or a way to store, exchange, or borrow something temporarily? How was that experience?
+Valentina: Yes, it has happened with objects or gym clothes, or even clothes I use after working out.
+
+José David: If you had to choose, what factors would be key in deciding with whom or where to get what you need?
+Valentina: For a space, comfort, quietness, and privacy; and for an object, price and maybe speed.
+
+José David: When you need a quiet space or a specific object, what’s the first thing you do to get it?
+Valentina: Normally, if it’s a space, I look around the university for free places; and if it’s an object, I write to friends or post in a group.
+
+José David: Do you use social media, messaging groups, or word of mouth to find things or places? How has that worked for you?
+Valentina: Yes, I mainly use WhatsApp, but it’s not very efficient because sometimes people don’t answer in time, they don’t have it, or it takes too long to meet up.
+
+José David: What problems have you had coordinating with people to use something or meet in a place?
+Valentina: As I just said, sometimes they don’t have what I need or they take too long to deliver it.
+
+José David: Thinking about how you get what you need—whether spaces, objects, or help—would you say the current system is efficient? Why or why not?
+Valentina: No, it’s not efficient because I don’t always get what I need or there aren’t always free spaces in the university.
+
+José David: What would make it easier and faster for you to find what you’re looking for or the space you need?
+Valentina: Maybe having a place or space that is always available and with the things I need.
+
+José David: What would make you trust someone to lend you a space or an object?
+Valentina: That they have reviews, pictures of the place or object, and also that I can confirm the person is a university student.
+
+José David: If there were a safe and quick way to get what you need, would you use it? Why?
+Valentina: Yes, I would use it because it would make my life and activities at the university easier.
+
+José David: In the case of paying or giving something in return, what would you consider fair for the temporary use of a space or object?
+Valentina: That the price is reasonable compared to the condition of the object or place.
+
+José David: Is there anything else about your experience looking for things or places at the university that I haven’t asked and you think is important?
+Valentina: No, not at the moment.
+
+José David: Would you be interested in testing a prototype that makes these situations easier?
+Valentina: Yes, I would like that.
+
+José David: Thank you very much for your time.
+Valentina: You’re welcome.

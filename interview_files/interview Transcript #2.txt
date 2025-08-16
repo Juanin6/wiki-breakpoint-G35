@@ -1,0 +1,58 @@
+Juan David: Hey, first thing—I’d like your permission to record your voice and use it for class.
+Nicolás: Permission granted.
+
+Juan David: So, what’s your name?
+Nicolás: My name is Nicolás Martínez Vélez.
+
+Juan David: How old are you?
+Nicolás: I’m 90 years old.
+
+Juan David: What program are you studying at the university?
+Nicolás: I study Economics and Mathematics.
+
+Juan David: Which semester are you in?
+Nicolás: Ninth semester.
+
+Juan David: Between classes, how do you usually spend your free time?
+Nicolás: I usually use those gaps to rest a bit, and also to study, get ahead on topics, or work on problem sets, etc.
+
+Juan David: In the last month (or last semester), what were your top two hassles on campus?
+Nicolás: The main hassle was having really long gaps several days a week. For example, on Wednesdays and Fridays I had class at 9, finished at 10:20, and then my next class was around 4 p.m. So I had a 6–7 hour gap where I didn’t know what to do.
+
+Juan David: Any other hassle?
+Nicolás: Another one is the lack of seats to have lunch. There aren’t enough anywhere, and especially from 12 to 2 it’s really hard to find a place to sit.
+
+Juan David: Tell me about the last time you needed a quiet, private space to study or join an online meeting.
+Nicolás: Actually, it was today. I needed a private space for a very important meeting and couldn’t find one. There were spaces, but they were way too noisy.
+
+Juan David: Where did you try to find a space?
+Nicolás: I usually look around the TX building, and also near the libraries there are spots that are not too noisy, but they’re still hard to get.
+
+Juan David: How often does it happen that you look for a space and can’t find one?
+Nicolás: Most of the time. Like 3 or 4 times a week I look for spaces—either for meetings like today or to study. Places are very limited and seats are usually taken.
+
+Juan David: Give me three must-haves for a place (to study or relax). It could be silence, closeness to campus, price, cleanliness, Wi-Fi, etc.
+Nicolás: First is time—meaning it needs to be close to campus so I can move quickly between classes. Distance and the time it takes to get there matter a lot.
+Second is how quiet it is. If I’m resting or studying, I need a calm environment without much noise.
+Third is comfort. There are quiet spots on campus, but they’re not always comfortable.
+
+Juan David: Today, what place or method gets you closest to what you need?
+Nicolás: The go-to is the libraries, either the Economics one or LML. The problem is you have to be silent and you can’t really do other activities. So when I need to take important meetings, I can’t do them there. And anything outside the library tends to be much noisier than I need.
+
+Juan David: Imagine an app where you can book private spaces near the university, with filters for noise level, amenities (Wi-Fi, outlets, etc.), and safety/cleaning guarantees. On a scale from 1 to 10, how useful does that sound?
+Nicolás: I think it’s a really good idea. I’d say an 8 or 9 out of 10. Those spaces are totally necessary, and the university just doesn’t provide them. As long as it’s close, safe, and quiet, I think students are willing to pay some amount to work there.
+
+Juan David: What do you think would be the main challenge for something like this, and what would make you not use it?
+Nicolás: A big challenge is figuring out where you can actually be quiet and pay to stay. Matching people who are willing to offer their room, study space, or home for a fee could be complicated.
+
+Juan David: Let’s say the app works well. What would you be willing to pay per hour for a room/apartment near campus?
+Nicolás: Around 10 to 20 thousand pesos, especially for important moments like meetings. I’d pay a bit more if it offered extra comforts like the ones I mentioned.
+
+Juan David: What other features would you add to an app like this?
+Nicolás: A rating system, like Uber or car rental platforms. It would be a great way to rate hosts with good-quality rooms and help you feel confident that the place is solid and there won’t be issues.
+
+Juan David: Would you like to try a prototype when we have one?
+Nicolás: Yeah, for sure.
+
+Juan David: Awesome, thanks a lot.
+Nicolás: Thank you.

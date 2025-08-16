@@ -1,0 +1,55 @@
+Alejandro: Hello, thank you for participating in this interview. Before we begin, may I record the conversation?
+
+Andrés: Yes.
+
+Alejandro: The recording will only be used for analysis purposes. Your information will be treated anonymously and will not be shared with third parties. To start, can you tell me what a typical day looks like for you? What activities do you do most often?
+
+Andrés: Well, it really depends. There are days when I have classes at the university and I go to the university. And if not, I work every day. But there are days when I have to go to the office and days when I don’t—most of the time I don’t. In general, I spend most of my time on the computer, because that’s where I work.
+
+Alejandro: Do you usually use any app or tool to plan your day or manage your activities?
+
+Andrés: Yes, I use Notion.
+
+Alejandro: How important do you think it is to keep track of your mood or emotions?
+
+Andrés: Well, I don’t know if it’s important, but I think it could be good.
+
+Alejandro: Do you remember a recent situation where it would have been useful to know how you were feeling on a specific day?
+
+Andrés: Maybe not a specific day, but it would be useful to see the past few days as a whole. To understand how I’ve been over a period of time.
+
+Alejandro: Do you have any habit you are trying to form or maintain? How do you currently record or track it?
+
+Andrés: Yes, I’m trying to read more, but I don’t record it. I just have a list of things I want to read, but I don’t track the actual act of reading.
+
+Alejandro: Have you ever tried tracking your mood or your habits before? Either on paper or with an app. How was that experience?
+
+Andrés: Yes, I once used an app. But I started using it not because of me, but because of someone who encouraged me. You could share your emotions there. But I stopped using it once I stopped talking to that person.
+
+Alejandro: What obstacles do you usually encounter when trying to consistently track your mood or habits?
+
+Andrés: Well, habits are just hard to adopt. So you simply stop doing them. And regarding mood, honestly, I’ve never really thought about it.
+
+Alejandro: If there were a quick and easy way to track your mood and habits, what features would it need to have for you to use it every day?
+
+Andrés: I think it would have to be simple—easy to record. But it should also serve a purpose. Like, it should show me analytics or insights that compile my moods. Something useful for me. For example: you were very sad in July and then you weren’t, or things like that. Some kind of analysis. Otherwise, I feel it doesn’t have much utility.
+
+Alejandro: And what kind of reminders or notifications would help you not forget to make a daily entry?
+
+Andrés: Well, I don’t like notifications—they bother me a bit. But if it had to be notifications, they should be non-intrusive. Something small and punctual.
+
+Alejandro: Would you prefer to see your records as charts, weekly summaries, or with personalized recommendations? And why?
+
+Andrés: All three sound good to me. But especially personalized recommendations. Because mood is so personal, the more personalized the better.
+
+Alejandro: Is there anything else you consider important to mention about your experience with habit or mood tracking?
+
+Andrés: Yes, maybe with habit tracking it would be interesting if the app included techniques or ways to encourage you to stick with the habit. Not just me recording it, but maybe the app reminding me that I need to read or go to the gym, or things like that. That would be good.
+
+Alejandro: Finally, would you be interested in participating in the testing of an early version of the app when it’s ready?
+
+Andrés: Yes.
+
+Alejandro: Thank you very much.
+
+Andrés: You’re welcome.
